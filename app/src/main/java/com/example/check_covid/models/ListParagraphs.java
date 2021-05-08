@@ -12,4 +12,5 @@ public class ListParagraphs extends ArrayList<AdviceParagraph> {
         addAll(paragraphs);
     }
 
+
 }
